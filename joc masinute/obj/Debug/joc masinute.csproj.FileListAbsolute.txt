@@ -1,0 +1,10 @@
+C:\Users\cosmi\source\repos\joc masinute\joc masinute\obj\Debug\joc_masinute.Form1.resources
+C:\Users\cosmi\source\repos\joc masinute\joc masinute\obj\Debug\joc_masinute.Properties.Resources.resources
+C:\Users\cosmi\source\repos\joc masinute\joc masinute\obj\Debug\joc masinute.csproj.GenerateResource.cache
+C:\Users\cosmi\source\repos\joc masinute\joc masinute\obj\Debug\joc masinute.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\source\repos\joc masinute\joc masinute\bin\Debug\joc masinute.exe.config
+C:\Users\cosmi\source\repos\joc masinute\joc masinute\bin\Debug\joc masinute.exe
+C:\Users\cosmi\source\repos\joc masinute\joc masinute\bin\Debug\joc masinute.pdb
+C:\Users\cosmi\source\repos\joc masinute\joc masinute\obj\Debug\joc masinute.exe
+C:\Users\cosmi\source\repos\joc masinute\joc masinute\obj\Debug\joc masinute.pdb
+C:\Users\cosmi\source\repos\joc masinute\joc masinute\obj\Debug\joc masinute.csprojAssemblyReference.cache
